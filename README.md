@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamxthakur
-- 👀 I’m interested in Graphic Designing & Web Development.
-- 🌱 I’m currently learning CSS and Javascript.
+- 👀 I’m interested in Graphic Designing & Programming.
+- 🌱 I’m currently learning Data Structure using C++.
 - 💞️ I’m looking to collaborate on projects involving creative Graphical UI.
 - 📫 How to reach me: contact n0: 8319389947, e-mail: stfushubham@gmail.com
 
