@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamxthakur
 - 👀 I’m interested in Graphic/UI Designing & Web Development.
 - 🌱 I’m currently learning Front-End Development.
-- 💞️ I’m looking to collaborate on projects involving UI/UX Design.
+- 💞️ I’m looking to collaborate on projects involving Web Development.
 - 📫 How to reach me: contact no: 8319389947, e-mail: stfushubham@gmail.com
 
 <!---
