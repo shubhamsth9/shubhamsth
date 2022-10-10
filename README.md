@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @shubhamxthakur
-- 👀 I’m interested in Web Development & UI/UX Designing.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on projects involving Front-End Development.
-- 📫 How to reach me: E-mail: stfushubham@gmail.com
+- 👋 Hi, I’m Shubham
+- 👀 You'll mostly find me grinding on l33tcode.
+- 🌱 I’m currently getting better at Data Structures and Algorithms.
+- 💞️ I’m looking to collaborate on projects involving Web-Development.
+- ❇️ Apart from tech, I love :
+     - 📚 reading books on philosophy, psychology and history
+     - 📸 street photography 
+     - 🧑‍🌾 and FARMINGG!
+- 🐤 Connect with me on [twitter](https://twitter.com/shubhamxtha)
+- 📫 or E-mail me : stfushubham@gmail.com
+
+[![@shubhamx's Holopin board](https://holopin.io/api/user/board?user=shubhamx)](https://holopin.io/@shubhamx)
 
 <!---
 shubhamxthakur/shubhamxthakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
